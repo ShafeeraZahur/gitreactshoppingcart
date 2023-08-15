@@ -1,6 +1,6 @@
 import Card from './/Component/Card';
 import './App.css';
-import Banner from './/Component/BannerJumbotron';
+import Banner from './Component/BannerJumbotran';
 import Navbarnew from ".//Component/Navbar";
 import React, { useState,useEffect} from 'react';
 import Footer from './/Component/footer';
