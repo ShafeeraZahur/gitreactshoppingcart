@@ -8,7 +8,7 @@ import Cardbanner7 from '../img/Cardbanner7.png';
 import Cardbanner8 from '../img/Cardbanner8.jpg';
 
 
-export const imgdata = [,Cardbanner1,Cardbanner2,Cardbanner3,Cardbanner4,Cardbanner5,Cardbanner6,Cardbanner7,Cardbanner8]
+export const imgdata = [Cardbanner1,Cardbanner2,Cardbanner3,Cardbanner4,Cardbanner5,Cardbanner6,Cardbanner7,Cardbanner8]
 export const data = [
 {id:1,name:'Fancy Product',price:"",discount:'$40.00 - $80.00',available:'',rating:'',added:true,view:false},
 {id:2,name:'Special Item',price:"$20.00",discount:'$18.00',available:'Sale',rating:'⭐⭐⭐⭐⭐',added:true,view:true},
